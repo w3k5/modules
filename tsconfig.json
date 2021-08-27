@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es6",
+    "strict": true,
+    "outDir": "temp",
+    "sourceMap": false,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["src/test.ts"]
+}
